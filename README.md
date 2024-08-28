@@ -49,4 +49,4 @@ This internship has been a journey of discovery, experimentation, and growth. Fr
 Have any questions or feedback? Feel free to reach out!
 
 - **Email**: satyajithpodakanti@gmail.com
-- **LinkedIn**: [Podakanti Satyajith Chary](https://www.linkedin.com/in/satyajithchary/)
+- **LinkedIn**: [Podakanti Satyajith Chary](https://www.linkedin.com/in/podakanti-satyajith-chary/)
