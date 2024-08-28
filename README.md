@@ -1,6 +1,6 @@
 # 🌟 META SCIFOR TECHNOLOGIES ML INTERNSHIP 🌟
 
-Welcome to the **META_SCIFOR_TECHNOLOGIES_ML_INTERNSHIP** repository! This is where the magic of Machine Learning happens, with a collection of projects and experiments completed during my internship at **Meta Scifor Technologies from January, 2024 to August, 2024.** Dive in and explore! 🚀
+Welcome to the **META_SCIFOR_TECHNOLOGIES_ML_INTERNSHIP** repository! This is where the magic of Machine Learning happens, with a collection of projects and experiments completed during my internship at **Meta Scifor Technologies, Banglore from January, 2024 to August, 2024.** Dive in and explore! 🚀
 
 ## 📂 Repository Structure
 
@@ -48,5 +48,5 @@ This internship has been a journey of discovery, experimentation, and growth. Fr
 
 Have any questions or feedback? Feel free to reach out!
 
-- **Email**: podakantisatyajithchary@gmail.com
+- **Email**: satyajithpodakanti@gmail.com
 - **LinkedIn**: [Podakanti Satyajith Chary](https://www.linkedin.com/in/satyajithchary/)
